@@ -1,0 +1,1 @@
+ALTER TABLE cita ADD CONSTRAINT ci_paciente FOREIGN KEY (cedula_paciente) REFERENCES paciente(cedula) ON UPDATE CASCADE ON DELETE CASCADE;

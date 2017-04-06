@@ -1,0 +1,186 @@
+.logo-menu{
+	width: 50%;
+	height: 1.7em;
+}
+
+footer{
+	height: 3em;	
+	text-align: center;	
+	background-color: #ff286b;
+	color: #fff;
+}
+
+.invalid{
+  color:#FF0000;
+}
+
+.valid{
+  color:#13A500;
+}
+
+
+.buttons{
+  margin-top: 1em;
+  
+}
+
+
+.nota{
+	color: #FF0000;
+}
+
+.panel-ingreso{
+  width: 25%;
+  margin-left: 37.5%;
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+
+.panel-ingreso h4{
+  color: white;
+  
+}
+
+.panel-ingreso{
+  text-align: center;
+}
+
+.panel-registro{
+  margin-top: 2em; 
+}
+
+.logo{
+  height: 30em;
+  width: 75%;  
+  margin-left: 12.5%;
+  margin-bottom: 3em;
+ 
+}
+
+.maqueta{
+	display: table-row;
+}
+
+.Ktlogo{
+	margin-top: 0.5em;
+  margin-right: 3em;
+  width: 100%;
+  opacity: 2;
+}
+
+.correo_footer{
+  
+  font-weight: bold;
+}
+
+.main{
+  background-color: #FFFFFF;
+  min-height: 38em;
+}
+
+.head{
+  color: #505050;
+  font-weight: bold;
+  padding: 10px 15px;
+}
+
+.sidebar{
+  background-color: #006dab;
+
+}
+
+.content{
+  min-height: 45em;
+  background-color: #fff;
+  padding-top: 5em;
+}
+
+.pad-left{
+  padding-left: 1em;
+}
+
+.padding-check{
+  padding-left: 13%;
+  padding-top: 5%;
+}
+
+.separador{
+  background-color: #ff286b;
+  border-top-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  color: #fff;
+  padding: 2px 20px;
+  font-weight: bold;
+}
+
+.sub-separador{
+  background-color: #006dab;
+  border-top-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  color: #fff;
+  padding: 2px 20px;
+  margin-top: -0.5em;
+  width: 90%;
+  margin-left: 10%;
+  font-weight: bold;
+}
+
+.informacion{
+  position: fixed;
+  margin-left: 62%;
+  bottom: 4em;
+}
+
+.right{
+  float: right;
+  margin-top: -7px;
+}
+
+.title_info{
+  background-color: #ff286b;
+  border-top-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.sub_title_info{
+  background-color: #006dab;
+  border-top-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  color: #fff;
+  padding: 2px 20px;
+  margin-top: -0.5em;
+  width: 90%;  
+  font-weight: bold;
+}
+
+.univ{
+  margin-bottom: 1.5em;
+}
+
+th, td{
+  text-align: center;
+}
+
+.lang{
+  color: #343434;
+
+}
+.lang:hover{
+  text-decoration: none;
+
+}
+
+a.selected{
+  color: #000;
+  background-color: #fff;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #fff;
+}
